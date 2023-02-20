@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfoCards", "InfoCards\InfoCards.csproj", "{AE56B555-1F57-4B51-A351-CEA8C4A20387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCardsClient", "InfoCardsClient\InfoCardsClient.csproj", "{21233D39-E274-4237-8312-31C3B44E2E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE56B555-1F57-4B51-A351-CEA8C4A20387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE56B555-1F57-4B51-A351-CEA8C4A20387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE56B555-1F57-4B51-A351-CEA8C4A20387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE56B555-1F57-4B51-A351-CEA8C4A20387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21233D39-E274-4237-8312-31C3B44E2E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21233D39-E274-4237-8312-31C3B44E2E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21233D39-E274-4237-8312-31C3B44E2E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21233D39-E274-4237-8312-31C3B44E2E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00E98B1-9F76-4F1F-8D31-AD4EDD68420F}
+	EndGlobalSection
+EndGlobal
